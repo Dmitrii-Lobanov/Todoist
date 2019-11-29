@@ -9,6 +9,7 @@ const firebaseConfig = firebase.initializeApp({
   storageBucket: "todoist-4613a.appspot.com",
   messagingSenderId: "298693408425",
   appId: "1:298693408425:web:b38bc69b7e8eec42ebdbb8"
+
 });
 
 export { firebaseConfig as firebase };
